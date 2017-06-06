@@ -1,9 +1,7 @@
 # Separador de Tokens
 Buscador de tokens de arquivos de texto em C
 
-Criado por Augusto César Bisognin
-Versão 1.1 - 13/12/2016
-Codificação Western Windows 1252
+Criado por Augusto César Bisognin - Versão 1.1 - 13/12/2016 - Codificação Western Windows 1252
 
 O usuário informa o nome de uma pasta - deve ser subpasta de onde está o
 executável - e o programa buscará por todos os arquivos de texto nesta pasta.
